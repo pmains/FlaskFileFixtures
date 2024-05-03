@@ -1,0 +1,17 @@
+- model: main.Sale
+  records:
+    - id: 1
+      amount: 100
+      description: 'Sale 1'
+      timestamp: '2019-01-01 12:45:32'
+      client_id: 1
+    - id: 2
+      amount: 200
+      description: 'Sale 2'
+      timestamp: '2019-01-02 15:20:53'
+      client_id: 2
+    - id: 3
+      amount: 300
+      description: 'Sale 3'
+      timestamp: '2019-01-03 09:37:21'
+      client_id: 1

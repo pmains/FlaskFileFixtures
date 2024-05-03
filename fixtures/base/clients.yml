@@ -1,0 +1,10 @@
+- model: main.Client
+  records:
+    - id: 1
+      name: 'Spokane Housing Authority'
+      email: 'info@spokane.gov'
+      phone: '509-123-4567'
+    - id: 2
+      name: 'City of Airway Heights'
+      email: 'info@airwayheights.gov'
+      phone: '509-765-4321'
